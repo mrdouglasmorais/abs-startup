@@ -1,0 +1,25 @@
+{
+  "name": "desafio-abs",
+  "homepage": "https://github.com/creativetimofficial/material-kit-react",
+  "authors": [
+    "douglasmorais"
+  ],
+  "description": "Desafio Associação Brasileira de StartUps",
+  "main": "dist/index.js",
+  "keywords": [
+    "material",
+    "design",
+    "material-ui",
+    "google",
+    "twitter"
+  ],
+  "license": "Creative TIM License",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
